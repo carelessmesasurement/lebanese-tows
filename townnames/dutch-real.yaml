@@ -2,206 +2,76 @@ available: true
 id: 1
 mainset:
 - names:
-  - name: Aadorp
+  - name: Beirut
     probability: 1
-  - name: Aagtekerke
+  - name: Sour
     probability: 1
-  - name: Aalden
+  - name: Sayda
     probability: 1
-  - name: Aalsmeer
+  - name: Zhale
     probability: 1
-  - name: Aalsmeerderbrug
+  - name: Baabda
     probability: 1
-  - name: Aalst
+  - name: Jounieh
     probability: 1
-  - name: Aalsum
+  - name: Byblos
     probability: 1
-  - name: Aalten
+  - name: Baalbek
     probability: 1
-  - name: Ter Aar
+  - name: Batroun
     probability: 1
-  - name: Ter Aard
+  - name: Koura
     probability: 1
-  - name: Aardenburg
+  - name: Marjayoun
     probability: 1
-  - name: Aarlanderveen
+  - name: Rachaya
     probability: 1
-  - name: Aarle-Rixtel
+  - name: Aley
     probability: 1
-  - name: Aartswoud
+  - name: Chouf
     probability: 1
-  - name: Abbega
+  - name: Hermel
     probability: 1
-  - name: Abbekerk
+  - name: Nabatieh
     probability: 1
-  - name: Abbenbroek
+  - name: Bekaa
     probability: 1
-  - name: Abbenes
+  - name: Bint Jbeil
     probability: 1
-  - name: Abcoude
+  - name: Jbeil
     probability: 1
-  - name: Achlum
+  - name: Bhamdoun
     probability: 1
-  - name: Achterveld
+  - name: Jdeydeh
     probability: 1
-  - name: Achthuizen
+  - name: Akkar
     probability: 1
-  - name: Achtmaal
+  - name: Anjar
     probability: 1
-  - name: Acquoy
+  - name: Deir el Qamar
     probability: 1
-  - name: Adorp
+  - name: Rmeich
     probability: 1
-  - name: Aduard
+  - name: Qana
     probability: 1
-  - name: Aerdenhout
+  - name: Keserwen
     probability: 1
-  - name: Aerdt
+  - name: Al Qaa
     probability: 1
-  - name: Afferden
+  - name: Fanar
     probability: 1
-  - name: Afferden L
+  - name: Baabdat
     probability: 1
-  - name: Agelo
+  - name: Achrafieh
     probability: 1
-  - name: Akersloot
+  - name: Beit Meri
     probability: 1
-  - name: Akkrum
+  - name: Ain Ebel
     probability: 1
-  - name: Akmarijp
+  - name: Ain Najm
     probability: 1
-  - name: Albergen
-    probability: 1
-  - name: Alblasserdam
-    probability: 1
-  - name: Alde Leie
-    probability: 1
-  - name: Aldeboarn
-    probability: 1
-  - name: Aldtsjerk
-    probability: 1
-  - name: Alem
-    probability: 1
-  - name: Alkmaar
-    probability: 1
-  - name: Allingawier
-    probability: 1
-  - name: Almelo
-    probability: 1
-  - name: Almen
-    probability: 1
-  - name: Almere
-    probability: 1
-  - name: Almkerk
-    probability: 1
-  - name: Alphen
-    probability: 1
-  - name: Alphen aan den Rijn
-    probability: 1
-  - name: Alteveer
-    probability: 1
-  - name: Alteveer gem Hoogeveen
-    probability: 1
-  - name: Altforst
-    probability: 1
-  - name: Ambt Delden
-    probability: 1
-  - name: Ameide
-    probability: 1
-  - name: Amen
-    probability: 1
-  - name: America
-    probability: 1
-  - name: Amerongen
-    probability: 1
-  - name: Amersfoort
-    probability: 1
-  - name: Ammerstol
-    probability: 1
-  - name: Ammerzoden
-    probability: 1
-  - name: Amstelhoek
-    probability: 1
-  - name: Amstelveen
-    probability: 1
-  - name: Amstenrade
-    probability: 1
-  - name: Amsterdam
-    probability: 1
-  - name: Amsterdam-Duivendrecht
-    probability: 1
-  - name: Andel
-    probability: 1
-  - name: Den Andel
-    probability: 1
-  - name: Andelst
-    probability: 1
-  - name: Anderen
-    probability: 1
-  - name: Andijk
-    probability: 1
-  - name: Ane
-    probability: 1
-  - name: Anerveen
-    probability: 1
-  - name: Anevelde
-    probability: 1
-  - name: Angeren
-    probability: 1
-  - name: Angerlo
-    probability: 1
-  - name: Anjum
-    probability: 1
-  - name: Ankeveen
-    probability: 1
-  - name: Anloo
-    probability: 1
-  - name: Anna Paulowna
-    probability: 1
-  - name: Annen
-    probability: 1
-  - name: Annerveenschekanaal
-    probability: 1
-  - name: Ansen
-    probability: 1
-  - name: Ter Apel
-    probability: 1
-  - name: Apeldoorn
-    probability: 1
-  - name: Ter Apelkanaal
-    probability: 1
-  - name: Appelscha
-    probability: 1
-  - name: Appeltern
-    probability: 1
-  - name: Appingedam
-    probability: 1
-  - name: Arcen
-    probability: 1
-  - name: Arkel
-    probability: 1
-  - name: Arnemuiden
-    probability: 1
-  - name: Arnhem
-    probability: 1
-  - name: Arriën
-    probability: 1
-  - name: Arum
-    probability: 1
-  - name: Asch
-    probability: 1
-  - name: Asperen
-    probability: 1
-  - name: Assen
-    probability: 1
-  - name: Assendelft
-    probability: 1
-  - name: Asten
-    probability: 1
-  - name: Augsbuurt
-    probability: 1
-  - name: Augustinusga
+  - name: Ain Saade
     probability: 1
 name: Dutch (real)
-source: https://opendata.cbs.nl/#/CBS/nl/dataset/84734NED/table?dl=40CC6
+source: null
 subsets: []
